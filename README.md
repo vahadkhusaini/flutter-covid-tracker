@@ -1,2 +1,3 @@
 Submission dicoding Flutter
-Flutter Covid Tracker with Flutter Null Safety
+
+My first flutter app with Flutter Null Safety
